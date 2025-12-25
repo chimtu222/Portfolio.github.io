@@ -93,6 +93,10 @@ body.dark-mode .masthead {
     font-weight: 400;
     font-family: 'Arial', sans-serif;
 }
+.visitor-count {
+    color: #ffd700;
+    text-shadow: 0 0 6px rgba(255, 215, 0, 0.4);
+}
 
 .date-line {
     font-size: 0.9rem;
@@ -1305,6 +1309,7 @@ body[data-theme="dark"] {
 .chat-link:hover {
     color: #ffd700;
 }
+
 
 /* Responsive Design */
 @media (max-width: 968px) {

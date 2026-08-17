@@ -213,6 +213,12 @@ renderInternships();
 
 const projects = [
     {
+        name: "Circuit-Ai",
+        summary:
+            "Developed Circuit AI, a futuristic web-based personal AI assistant powered by multiple AI providers like Gemini, Groq, and OpenRouter. It supports long chat sessions, short commands, chat-wise history, reminders, alarms, voice interaction, image support, music controls, and weather features. The full version supports AI conversations, weather queries for multiple locations, and music playback, while the public web demo highlights the UI, alarm/reminder, Bhubaneswar weather widget, owner information, and core interaction flow due to limited free-tier API calls and daily token usage.",
+        url: "https://circuit-ai-omega.vercel.app/"
+    },
+    {
         name: "MediTrack -Medicine Inventory Management",
         summary:
             "Designed and developed a web-based medicine inventory system for a friend's small pharmacy, enabling real-time tracking of 20,000-30,000 medicines, sales management, and automated alerts for low, expired, or expiring stock. Includes PDF/Excel reports and secure user authentication, providing a complete, cost-effective solution without requiring a database.",
